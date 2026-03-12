@@ -1,10 +1,10 @@
-# Etsy Listing (React + TypeScript)
+# list of offers (React + TypeScript)
 
 Приложение отображает список предложений Etsy.
 
 ## Демо
 
-🔗 https://excessu69.github.io/etsy-listing/
+🔗 https://excessu69.github.io/TS_list_of_offers/
 
 ## Используемые технологии
 
